@@ -25,4 +25,4 @@ Xbox Live Networking Service,
 Certificate Propagation,
 IP Helper,
 Phone Service,
-TCP/IP NetBIOS Helper,
+TCP/IP NetBIOS Helper.
